@@ -2,7 +2,7 @@
 
 **THIS IS THE WEB APP OF ***restaurant*** PROJECT**
 
-React Project that works within a React-Native application [restaurantapp](<>) to automate the process of uploading the dishes to the server working with Firebase Database
+React Project that works within a React-Native application [restaurantapp](<https://github.com/Jare9716/restaurantapp.git>) to automate the process of uploading the dishes to the server working with Firebase Database
 
 # Libraries
 
