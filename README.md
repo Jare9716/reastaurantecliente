@@ -29,7 +29,7 @@ This project has the next libraryes:
   
 # Notes
 
-* This project use tailwindcss for the response design **Don't forget to initialize your project wit it**
+* This project use tailwindcss for the response design **Don't forget to initialize your project with it**
 * Runs the app with `npm start`
 
 
